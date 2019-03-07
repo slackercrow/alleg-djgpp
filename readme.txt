@@ -1,6 +1,6 @@
-I wanted to be able to compile the Allegro DOS library myself. These are the zips I 
-used. These are old versions but they work for me to compile Allegro 
-4.2.3 on Windows XP SP3.
+I wanted to be able to compile the Allegro DOS library myself. These 
+are the zips I used. These are old versions but they work for me to 
+compile Allegro 4.2.3 on Windows XP SP3.
 
 Just in case, I zipped allegro and djgpp as I have it.
 
@@ -17,7 +17,7 @@ This may not be ideal, but I have struggled to compile the DOS lib
 with what the djgpp zip picker gives me. This works for my purposes, 
 good luck!
 
-NOTE: dj-dl.7z is what I've downloaded from various places, but the zips
+NOTE: dj-dl.7z is what I've downloaded from various places, but the zips 
 outside of that 7z are the ones I used. I archived them just in case 
 they disappear from the web.
 
