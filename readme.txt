@@ -1,5 +1,5 @@
 Compile Allegro 4.2.3 from source with DJGPP for DOS on Windows XP
-						(Whew what a title!)
+                       (Whew what a title!)
 ====================================================================
 
 I wanted to be able to compile the Allegro DOS library myself. These 
@@ -15,7 +15,7 @@ Just in case, I zipped allegro and djgpp as I have it.
 	NOTE: clear LFN before compiling an application (set LFN=)
 5. I compiled thusly:
 	a. make TARGET_ARCH_EXCL=i386 (TARGET_ARCH_EXCL=i386 is optional,
-								   I just did this for a reason.)
+                                   I just did this for a reason.)
 	b. make install
 	
 This may not be ideal, but I have struggled to compile the DOS lib 
